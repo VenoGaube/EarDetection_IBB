@@ -1,5 +1,7 @@
 # EarDetection_IBB
 
+The code was run on Python 3.6 and CUDA version 10.1.
+
 ## How to run the script
 
 1. Download the data and the model from the provided link.
